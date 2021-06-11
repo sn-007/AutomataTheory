@@ -1,3 +1,3 @@
-# Automata Theory Course assignment
-## Q2 => Converting an NFL to DFA 
-## Q4 => Minimising a Given DFA
+### Problems Done in Automata Theory Assignment
+#### Q2 => Convert  an NFL  to DFA 
+#### Q4 => Minimise a  Given   DFA
